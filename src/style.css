@@ -1,0 +1,191 @@
+body{
+    position: absolute;
+    left: 364px;
+    top: 50px; 
+    margin-right: 45px;
+    box-shadow: 0px 4px 4px rgba(207, 198, 198, 0.25);
+
+}
+
+.main{
+
+    width: 550px;
+    height: 850px;
+
+    top: 53px;
+    background-color: rgb(12, 17, 15);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.images{
+    position: absolute;
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    top: 44px;
+    width: 60%; 
+    border-radius: 10px 10px 0px 0px;
+}
+
+.name {
+    /* Laura Smith */
+    position: absolute;
+    width: 178.06px;
+    height: 25.81px;
+    left: 186px;
+    top: 382px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.role{
+    position: absolute;
+    width: 178.06px;
+    height: 14.19px;
+    left: 186px;
+    top: 414px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+}
+
+.btn{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    position: absolute;
+    width: 247px;
+    height: 34px;
+    left: 151px;
+    top: 469px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+.about--detail{
+    position: absolute;
+    width: 247px;
+    height: 201px;
+    left: 151px;
+    top: 535px;
+    color: #FFFFFF;
+}
+
+.about{
+    background-color: #0072b1;
+    width: 242.71px;
+    height: 21px;
+    left: 151px;
+    top: 535px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+
+.about-p{
+    width: 247px;
+    height: 61px;
+    left: 151px;
+    top: 561px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.interest{   
+    background-color: #0072b1; 
+    width: 242.71px;
+    height: 21px;
+    left: 151px;
+    top: 649px;
+    margin-top: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.interest-p{
+    width: 247px;
+    height: 61px;
+    left: 151px;
+    top: 675px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.footer{
+    position: absolute;
+    width: 317px;
+    height: 64px;
+    left: 116px;
+    top: 760px;
+
+    background: #e8e8eb;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.github, .medium, .twitter, .linkedin{
+    display: inline-flex;
+    justify-content: space-between;
+    justify-items: center;
+    width: 20px;
+    margin: 20px 0 auto;
+    margin-left: 43px;
+}
+.github{
+    left: 29.91%;
+    right: 65.55%;
+    top: 89.8%;
+    bottom: 7.32%;
+}
+
+.medium{
+    color:black;
+    left: 47.73%;
+    right: 47.73%; 
+    top: 89.8%;
+    bottom: 7.32%;
+}
+
+.twitter{
+    color:blue;
+    left: 29.91%;
+    right: 65.55%;
+    top: 89.8%;
+    bottom: 7.32%;
+}
+
+.linkedin{
+    color: #0072b1;
+}

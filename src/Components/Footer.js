@@ -12,10 +12,10 @@ function Footer(){
     return(
         <footer className="footer">
             <a href="https://github.com/Enecode" className="github">
-                <FontAwesomeIcon icon={faMedium} size="2x" />
+                <FontAwesomeIcon icon={faGithub} size="2x" />
             </a>
             <a href="https://medium.com/@isahjacob" className="medium">
-                <FontAwesomeIcon icon={faGithub} size="2x" />
+                <FontAwesomeIcon icon={faMedium} size="2x" />
             </a>
             <a href="https://twitter.com/IsahJakub" className="twitter">
                 <FontAwesomeIcon icon={faTwitter} size="2x" />

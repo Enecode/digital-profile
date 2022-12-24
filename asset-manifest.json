@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-profile/static/css/main.76b162d5.css",
+    "main.js": "/digital-profile/static/js/main.93bf4b9d.js",
+    "static/media/isahjacob.png": "/digital-profile/static/media/isahjacob.1c6f2a3e2c00db64ea63.png",
+    "index.html": "/digital-profile/index.html",
+    "main.76b162d5.css.map": "/digital-profile/static/css/main.76b162d5.css.map",
+    "main.93bf4b9d.js.map": "/digital-profile/static/js/main.93bf4b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b162d5.css",
+    "static/js/main.93bf4b9d.js"
+  ]
+}
